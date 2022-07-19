@@ -7,13 +7,13 @@
   <!-- <img  src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" > -->
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 <!--  -->
 </div>
-
-<div width="50%">
+<div width="50%" margin-top="50px">
 <!-- Github Stats -->
 
 # 📊 GitHub Stats:
