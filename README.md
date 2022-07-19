@@ -2,6 +2,7 @@
 <div>
 <div align="right" width="50%">
 <!-- Programmer gif -->
+<img src="header.png">
   <!-- <img  src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" > -->
 <img  width="50%" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 <!--  -->
