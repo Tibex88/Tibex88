@@ -3,7 +3,7 @@
 <div  width="50%">
 <!-- Programmer gif -->
 <img src="github-header-image.png">
-
+<!--
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -13,6 +13,7 @@
     </summary>
   </ul>
 </div>
+-->
 
 ![Profile views](https://komarev.com/ghpvc/?username=tibex88&label=Profile%20views&color=0e75b6&style=flat)
 
