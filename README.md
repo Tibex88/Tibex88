@@ -2,7 +2,7 @@
 
 <div  width="50%">
 <!-- Programmer gif -->
-<img src="header.png">
+<img src="github-header-image.png">
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
 
