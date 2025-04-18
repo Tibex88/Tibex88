@@ -37,6 +37,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-//<p align="left">
+<!-- <p align="left">
  // <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibex88&theme=react&hide_title=false&layout=donut-vertical&langs_count=20&hide_progress=true&card_width=400" alt="GitHub top-langs Card" />
-//</p>
+//</p>  --
+!>
