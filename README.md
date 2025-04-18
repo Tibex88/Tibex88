@@ -15,8 +15,6 @@
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=tibex88&label=Profile%20views&color=0e75b6&style=flat)
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://twitter.com/https://twitter.com/TibeSolomon" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/tibebe-solomon-278294234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="tibesolomon7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -37,6 +35,8 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=tibex88&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibex88&theme=react&hide_title=false&layout=donut-vertical&langs_count=20&hide_progress=true&card_width=400" alt="GitHub top-langs Card" />
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+//<p align="left">
+ // <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibex88&theme=react&hide_title=false&layout=donut-vertical&langs_count=20&hide_progress=true&card_width=400" alt="GitHub top-langs Card" />
+//</p>
